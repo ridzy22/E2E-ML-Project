@@ -6,4 +6,5 @@ pytest-warnings
 scikit-learn
 catboost
 xgboost
+dill
 # -e .
